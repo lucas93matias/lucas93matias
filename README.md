@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Moriah Tapetes
+- 🔭 I’m currently working on BringIT
 - 🌱 I’m currently learning Analise e Desenvolvimento de Sistema na Unopar.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about interesses em programação
+- 💬 Ask me about interesses em Ciber Segurança
 - 📫 How to reach me: @lucas93matias no Instagram
 - 😄 Pronouns: Matias
-- ⚡ Fun fact: sou ciclista, jogo futebol, gosto também de NBA e de jogos de PS2.
+- ⚡ Fun fact: sou ciclista, jogo futebol, gosto também de NBA e de jogos de vídeo game.
 -->
